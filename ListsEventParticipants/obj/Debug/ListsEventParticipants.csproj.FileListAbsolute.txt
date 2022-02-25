@@ -1,0 +1,10 @@
+C:\Users\Magas\OneDrive\Desktop\Solution 1\ListsEventParticipants\ListsEventParticipants\obj\Debug\ListsEventParticipants.csproj.AssemblyReference.cache
+C:\Users\Magas\OneDrive\Desktop\Solution 1\ListsEventParticipants\ListsEventParticipants\obj\Debug\ListsEventParticipants.csproj.CoreCompileInputs.cache
+C:\Users\Magas\OneDrive\Desktop\Solution 1\ListsEventParticipants\ListsEventParticipants\bin\Debug\ListsEventParticipants.exe.config
+C:\Users\Magas\OneDrive\Desktop\Solution 1\ListsEventParticipants\ListsEventParticipants\bin\Debug\ListsEventParticipants.exe
+C:\Users\Magas\OneDrive\Desktop\Solution 1\ListsEventParticipants\ListsEventParticipants\bin\Debug\ListsEventParticipants.pdb
+C:\Users\Magas\OneDrive\Desktop\Solution 1\ListsEventParticipants\ListsEventParticipants\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Magas\OneDrive\Desktop\Solution 1\ListsEventParticipants\ListsEventParticipants\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Magas\OneDrive\Desktop\Solution 1\ListsEventParticipants\ListsEventParticipants\obj\Debug\ListsEventParticipants.csproj.CopyComplete
+C:\Users\Magas\OneDrive\Desktop\Solution 1\ListsEventParticipants\ListsEventParticipants\obj\Debug\ListsEventParticipants.exe
+C:\Users\Magas\OneDrive\Desktop\Solution 1\ListsEventParticipants\ListsEventParticipants\obj\Debug\ListsEventParticipants.pdb
